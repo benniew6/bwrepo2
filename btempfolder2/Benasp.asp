@@ -3,7 +3,7 @@
     <title>Simple ASP Page</title>
 </head>
 <body>
-    <h1>Welcome to our website!</h1>
+    <h1>Welcome to our Ben website!</h1>
     <p>
         Today's date is: <%= Date() %> 
     </p>
