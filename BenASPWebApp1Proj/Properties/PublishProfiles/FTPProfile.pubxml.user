@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA29VTyLiua0WiQ8UcpQ/axwAAAAACAAAAAAAQZgAAAAEAACAAAAAK4x87eK2v8Ml7gDy5rzFs89miekoqvh1bbiKiwRtE3AAAAAAOgAAAAAIAACAAAAD5Ct23HLfyvKk5XwO23QKCehpr2tq3Sb/lQI+IBw4nlIAAAADSJaGrchcQaAIS9mq/XskEKLdikX39/QPpRnWF9u/l+ZORcLyTRBzHaYVC+OioDvp2QjYPwsQoF7FfIy5ii6qIeUDzDyKL1+K1PcPjz92v+KNrlNDqiIXGS921s5u35yU0tOADazOmu3QjkXo8oDy//StZb6ZGY18xWdNNQzZfNUAAAADMWAEPD2H0BFfuRtnl36ZwVYyk5mlwcHIqkktpUG4hkOBowR5ww8n18fO8nsLUw+a2ndoRVkuVLtcfJnw8yI53</EncryptedPassword>
+    <_PublishTargetUrl>ftps://waws-prod-blu-153.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+    <History>True|2024-12-02T05:23:09.6685846Z;True|2024-12-02T00:15:28.8885671-05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="BenASPWebApp1Proj.deps.json">
+      <publishTime>12/02/2024 00:22:37</publishTime>
+    </File>
+    <File Include="BenASPWebApp1Proj.dll">
+      <publishTime>12/02/2024 00:22:37</publishTime>
+    </File>
+    <File Include="BenASPWebApp1Proj.exe">
+      <publishTime>12/02/2024 00:22:37</publishTime>
+    </File>
+    <File Include="BenASPWebApp1Proj.pdb">
+      <publishTime>12/02/2024 00:22:37</publishTime>
+    </File>
+    <File Include="BenASPWebApp1Proj.runtimeconfig.json">
+      <publishTime>12/01/2024 17:35:18</publishTime>
+    </File>
+    <File Include="BenASPWebApp1Proj.Views.dll">
+      <publishTime>12/02/2024 00:22:37</publishTime>
+    </File>
+    <File Include="BenASPWebApp1Proj.Views.pdb">
+      <publishTime>12/02/2024 00:22:37</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>12/02/2024 00:22:39</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.css">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/favicon.ico">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/js/site.js">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css.map">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js.map">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/LICENSE">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.js">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.min.js">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.js">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.min.js">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/LICENSE.md">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.js">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.js">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.map">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/LICENSE.txt">
+      <publishTime>12/01/2024 00:41:04</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

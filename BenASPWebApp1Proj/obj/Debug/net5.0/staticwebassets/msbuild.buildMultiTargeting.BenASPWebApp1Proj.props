@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BenASPWebApp1Proj.props" />
+</Project>

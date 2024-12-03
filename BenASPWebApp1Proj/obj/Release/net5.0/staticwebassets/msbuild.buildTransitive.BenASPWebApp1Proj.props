@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BenASPWebApp1Proj.props" />
+</Project>
