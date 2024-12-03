@@ -53,4 +53,4 @@ jobs:
           app-name: 'benaspwebapp125252'
           slot-name: 'prod'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7FEC8989697C45CD9DCAF919EB278FE9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_307BC157428446A59465F93898017CB7 }}
